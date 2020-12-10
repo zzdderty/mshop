@@ -1,0 +1,7 @@
+# Project exclude paths
+/mshop_parent/mshop_backend_web/target/
+/mshop_parent/mshop_common/target/
+/mshop_parent/mshop_dao/target/
+/mshop_parent/mshop_front_web/target/
+/mshop_parent/mshop_pojo/target/
+/mshop_parent/mshop_service/target/

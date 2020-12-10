@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/mshop_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mshop_parent/mshop_backend_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mshop_parent/mshop_backend_web/src/main/webapp/WEB-INF/css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/mshop_parent/mshop_backend_web/src/main/webapp/WEB-INF/fonts" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/mshop_parent/mshop_backend_web/src/main/webapp/WEB-INF/iconfont" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/mshop_parent/mshop_backend_web/src/main/webapp/WEB-INF/images" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/mshop_parent/mshop_backend_web/src/main/webapp/WEB-INF/js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/mshop_parent/mshop_backend_web/src/main/webapp/WEB-INF/layer" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/mshop_parent/mshop_backend_web/src/main/webapp/WEB-INF/views/login.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/mshop_parent/mshop_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mshop_parent/mshop_dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mshop_parent/mshop_front_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mshop_parent/mshop_pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mshop_parent/mshop_service" charset="UTF-8" />
+  </component>
+</project>
